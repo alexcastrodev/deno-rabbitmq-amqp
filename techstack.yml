@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/deno-rabbitmq-amqp
 report_id: 51fd5f29714e46fcadc8db11b6a53d41
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:20:16+00:00'
+timestamp: '2024-01-05T08:11:49+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-03-14 19:33:18.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp/blob/main/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-03-14 19:33:18.000000000 Z
@@ -49,4 +52,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp
   detection_source: Repo Metadata
