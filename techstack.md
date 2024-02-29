@@ -3,9 +3,9 @@
 ## Tech Stack
 AlexcastroDev/deno-rabbitmq-amqp is built on the following main stack:
 
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- [TypeScript](http://www.typescriptlang.org) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 AlexcastroDev/deno-rabbitmq-amqp is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' alt='RabbitMQ'/> [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AlexcastroDev/deno-rabbitmq-amqp](https://github.com/AlexcastroDev/deno-rabbitmq-amqp)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/05/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
