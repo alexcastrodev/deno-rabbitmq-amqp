@@ -1,0 +1,56 @@
+repo_name: AlexcastroDev/deno-rabbitmq-amqp
+report_id: 51fd5f29714e46fcadc8db11b6a53d41
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:23:03+00:00'
+requested_by: AlexcastroDev
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp
+  detection_source: Repo Metadata
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-03-14 19:33:18.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp/blob/main/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-03-14 19:33:18.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/deno-rabbitmq-amqp
+  detection_source: Repo Metadata
